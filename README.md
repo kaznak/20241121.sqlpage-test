@@ -8,5 +8,12 @@
 # 機能
 ## Path Parameter
 
-- [Path parameters #559](https://github.com/sqlpage/SQLPage/issues/559)
-- [Folder-based middleware #584](https://github.com/sqlpage/SQLPage/discussions/584)
+[Path parameters #559](https://github.com/sqlpage/SQLPage/issues/559)
+
+404.sql を使用してのルーティングが提案されている。
+だが正直な所複雑で使いにくい。
+nextjs のようなパスベースのパラメータを使いたい。
+
+[Folder-based middleware #584](https://github.com/sqlpage/SQLPage/discussions/584)
+
+ミドルウェアは直感的ではないように思う。
