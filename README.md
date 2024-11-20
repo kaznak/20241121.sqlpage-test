@@ -17,3 +17,7 @@ nextjs のようなパスベースのパラメータを使いたい。
 [Folder-based middleware #584](https://github.com/sqlpage/SQLPage/discussions/584)
 
 ミドルウェアは直感的ではないように思う。
+
+## DuckDB support
+
+[DuckDB](https://duckdb.org/)
